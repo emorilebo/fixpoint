@@ -125,8 +125,8 @@ const Home: NextPage = () => {
         <title>Launch Countdown Timer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="text-4xl text-white mt-10">FixPoint Currently Under Construction</h1>
-      <h1 className="text-xl text-white mt-10">The one stop point for all things that need to be fixed</h1>
+      <h1 className="text-4xl text-white mt-10">Welcome to FixPoint</h1>
+      <h1 className="text-4xl text-white mt-10">The one stop point for all things that need to be fixed</h1>
       <div className="flex mt-10">
         <div className="flex flex-col items-center mx-2">
           <h2 id="day" className="text-2xl text-white">30</h2>
